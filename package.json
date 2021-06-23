@@ -1,0 +1,23 @@
+{
+  "name": "degree-programs-scraper",
+  "version": "1.0.0",
+  "description": "Scrape the UMBC degree programs site and convert into useful JSON.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umbc-sga/degree-programs-parser.git"
+  },
+  "author": "Rees Draminski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umbc-sga/degree-programs-parser/issues"
+  },
+  "homepage": "https://github.com/umbc-sga/degree-programs-parser#readme",
+  "dependencies": {
+    "jsdom": "^16.6.0",
+    "node-fetch": "^2.6.1"
+  }
+}

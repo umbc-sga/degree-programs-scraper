@@ -1,0 +1,1153 @@
+{
+    "Africana Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Management of Aging Services": {
+        "Bachelor's": "B.A.",
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Senior Housing Administration": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "American Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Ancient Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Asian Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": true
+    },
+    "Anthropology,Cultural": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Astrophysics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Biochemistry and Molecular Biology": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Applied Molecular Biology": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Biological Sciences": {
+        "Bachelor's": "B.A.B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": true
+    },
+    "Biology Education": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Bioinformatics and Computational Biology": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Marine, Estuarine & Environmental Sciences": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Molecular and Cell Biology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Neurosciences and Cognitive Sciences": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Quantitative Biology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Biotechnology": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Biotechnology Management": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Translational Life Science Technology": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Biochemical Regulatory Engineering": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Chemical Engineering": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Chemical and Biochemical Engineering": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Environmental Engineering": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Biochemistry": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Chemistry": {
+        "Bachelor's": "B.A., B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": true
+    },
+    "Chemistry Education": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Computer Engineering": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "PhD.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Computer Science": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": true
+    },
+    "Electrical Engineering": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Digital Forensics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Cybersecurity": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Cybersecurity Operations": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Cybersecurity Strategy & Policy": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Dance": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Data Science": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Economics": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Accounting": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Economic Policy Analysis": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Finance": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Financial Economics": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Management Accounting": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Education": {
+        "Bachelor's": false,
+        "Master's": "M.A.E M.A.T.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Early Childhood Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "Cert MD/CAEP approv",
+        "Minor": false
+    },
+    "Elementary Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "Cert MD/CAEP approv",
+        "Minor": false
+    },
+    "Elementary/Middle Science Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "English to Speakers of Other Languages": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": "Cert MD/CAEP approv P.B. Cert",
+        "Minor": false
+    },
+    "Mathematics Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Mathematics Instructional Leadership (K-8)": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Middle Grades STEM Education": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Secondary Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "Cert MD/CAEP approv",
+        "Minor": false
+    },
+    "Secondary Science Inquiry": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Secondary Physical Science Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "STEM Education": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "STEM Educational Leadership": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Teaching": {
+        "Bachelor's": false,
+        "Master's": "M.A.T.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Emergency Health Services": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Emergency Management": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Engineering Management": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Project Management": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "English": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Medieval and Early Modern Studies": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Texts, Technologies, and Literature": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Entrepreneurship and Innovation": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "French": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": true
+    },
+    "Gender, Women’s and Sexuality Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert, P.B. Cert",
+        "Minor": true
+    },
+    "Critical Sexuality Studies": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Geographic Information Systems": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Geographic Information Science": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Geography and Environmental Systems": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Environmental Science": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Environmental Science & Geography": {
+        "Bachelor's": "B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Geography": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Geography & Environmental Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "German": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": true
+    },
+    "Gerontology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Global Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Public Health": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Health Information Technology": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "History": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "East Asian History": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Historical Studies": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Honors College": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Human Context of Science & Technology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Information Systems": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": true
+    },
+    "Auditing for Information Systems": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Business Technology Administration": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Cybersecurity Informatics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Decision Making Support": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Human Centered Computing": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Management Science": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "MBA Preparatory Studies": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Network Administration": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Project Management for Information Systems": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Software Engineering": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "User Experience, Web and Mobile Development": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Individualized Studies": {
+        "Bachelor's": "B.A., B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Learning and Performance Technology": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "eLearning": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Instructional Systems Development": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Instructional Technology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Organizational Consulting": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Training and Talent Development": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Judaic Studies": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Korean": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": true
+    },
+    "Language, Literacy & Culture": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Applied Mathematics": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Biomathematics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Mathematics": {
+        "Bachelor's": "B.A., B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Statistics": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": true
+    },
+    "Mechanical Engineering": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Computational Thermal/Fluid Dynamics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Integrated Product Development and Manufacturing": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Mechatronics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Media and Communication Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Applied Linguistics": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Chinese": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Intercultural Communication": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": "U.D. Cert",
+        "Minor": false
+    },
+    "Modern Languages and Linguistics": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Russian": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Spanish": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Molecular Biology, Applied": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Music": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "American Contemporary Music": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Jazz Studies": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Music Composition": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Music Education": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Music Performance": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Music Technology": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Philosophy": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "History of Philosophy": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Philosophy, Ethics, and Values": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Philosophy, Law, and Politics": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Philosophy, Logic, and Science": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Philosophy of Mind and Psychology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Physics": {
+        "Bachelor's": "B.S.",
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Astronomy": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Atmospheric Physics": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Physics Education": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Political Science": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Security Studies": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Psychology": {
+        "Bachelor's": "B.A., B.S.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Applied Developmental Psychology": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": "Ph.D",
+        "Certificate": false,
+        "Minor": false
+    },
+    "College Teaching and Learning Science": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.M. Cert",
+        "Minor": false
+    },
+    "Human Services Psychology": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": "Ph.D.",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Industrial-Organizational Psychology": {
+        "Bachelor's": false,
+        "Master's": "M.P.S.",
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Public Policy": {
+        "Bachelor's": false,
+        "Master's": "M.P.P.",
+        "Doctorate": "Ph.D",
+        "Certificate": false,
+        "Minor": false
+    },
+    "Public Administration and Policy": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert.",
+        "Minor": false
+    },
+    "Religious Studies": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Social Work": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Sociology, Anthropology, and Public Health": {
+        "Bachelor's": "Sociology, Anthropology, and Public Health\n                    "
+    },
+    "Anthropology, Cultural": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Applied Social Research Methods": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Applied Sociology": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "The Non-Profit Sector": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Social Dimensions of Health": {
+        "Bachelor's": false,
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": "U.D. Cert  P.B. Cert",
+        "Minor": false
+    },
+    "Sociology": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Systems Engineering": {
+        "Bachelor's": false,
+        "Master's": "M.S.",
+        "Doctorate": false,
+        "Certificate": "P.B. Cert",
+        "Minor": false
+    },
+    "Teaching English to Speakers of Other Languages": {
+        "Bachelor's": false,
+        "Master's": "M.A.",
+        "Doctorate": false,
+        "Certificate": "Cert MD/CAEP approv P.B. Cert",
+        "Minor": false
+    },
+    "Theatre": {
+        "Bachelor's": "B.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Acting": {
+        "Bachelor's": "B.F.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Visual Arts": {
+        "Bachelor's": "B.A., B.F.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": true
+    },
+    "Design": {
+        "Bachelor's": "B.F.A.",
+        "Master's": false,
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    },
+    "Intermedia and Digital Arts": {
+        "Bachelor's": false,
+        "Master's": "M.F.A.",
+        "Doctorate": false,
+        "Certificate": false,
+        "Minor": false
+    }
+}
